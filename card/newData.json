@@ -1,0 +1,342 @@
+[
+  {
+    "name": {
+      "title": "Miss",
+      "first": "Ece",
+      "last": "Dalkıran"
+    },
+    "gender": "female",
+    "email": "ece.dalkiran@example.com",
+    "cell": "(149)-596-2761",
+    "location": {
+      "city": "Giresun",
+      "state": "Şırnak",
+      "country": "Turkey",
+      "postcode": 48979
+    },
+    "picture": "https://randomuser.me/api/portraits/med/women/2.jpg"
+  },
+  {
+    "name": {
+      "title": "Mr",
+      "first": "Kenan",
+      "last": "Kunter"
+    },
+    "gender": "male",
+    "email": "kenan.kunter@example.com",
+    "cell": "(231)-218-6682",
+    "location": {
+      "city": "Erzurum",
+      "state": "Kahramanmaraş",
+      "country": "Turkey",
+      "postcode": 29481
+    },
+    "picture": "https://randomuser.me/api/portraits/med/men/59.jpg"
+  },
+  {
+    "name": {
+      "title": "Mr",
+      "first": "Milton",
+      "last": "Davidson"
+    },
+    "gender": "male",
+    "email": "milton.davidson@example.com",
+    "cell": "07686 635152",
+    "location": {
+      "city": "Plymouth",
+      "state": "Hampshire",
+      "country": "United Kingdom",
+      "postcode": "K4 6WR"
+    },
+    "picture": "https://randomuser.me/api/portraits/med/men/54.jpg"
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "Consuelo",
+      "last": "Alonso"
+    },
+    "gender": "female",
+    "email": "consuelo.alonso@example.com",
+    "cell": "691-214-947",
+    "location": {
+      "city": "Torrejón de Ardoz",
+      "state": "País Vasco",
+      "country": "Spain",
+      "postcode": 91358
+    },
+    "picture": "https://randomuser.me/api/portraits/med/women/35.jpg"
+  },
+  {
+    "name": {
+      "title": "Mrs",
+      "first": "Sarah",
+      "last": "Ross"
+    },
+    "gender": "female",
+    "email": "sarah.ross@example.com",
+    "cell": "D88 Q10-2499",
+    "location": {
+      "city": "Keswick",
+      "state": "Prince Edward Island",
+      "country": "Canada",
+      "postcode": "V1Z 9G3"
+    },
+    "picture": "https://randomuser.me/api/portraits/med/women/46.jpg"
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "Mélissa",
+      "last": "Rolland"
+    },
+    "gender": "female",
+    "email": "melissa.rolland@example.com",
+    "cell": "06-00-40-47-69",
+    "location": {
+      "city": "Avignon",
+      "state": "Nord",
+      "country": "France",
+      "postcode": 58491
+    },
+    "picture": "https://randomuser.me/api/portraits/med/women/26.jpg"
+  },
+  {
+    "name": {
+      "title": "Mr",
+      "first": "Sava",
+      "last": "Grujić"
+    },
+    "gender": "male",
+    "email": "sava.grujic@example.com",
+    "cell": "062-5069-536",
+    "location": {
+      "city": "Bor",
+      "state": "Toplica",
+      "country": "Serbia",
+      "postcode": 72281
+    },
+    "picture": "https://randomuser.me/api/portraits/med/men/68.jpg"
+  },
+  {
+    "name": {
+      "title": "Mr",
+      "first": "Mitchell",
+      "last": "Spencer"
+    },
+    "gender": "male",
+    "email": "mitchell.spencer@example.com",
+    "cell": "(917) 404-3399",
+    "location": {
+      "city": "Edison",
+      "state": "Idaho",
+      "country": "United States",
+      "postcode": 99241
+    },
+    "picture": "https://randomuser.me/api/portraits/med/men/67.jpg"
+  },
+  {
+    "name": {
+      "title": "Mr",
+      "first": "William",
+      "last": "Guillaume"
+    },
+    "gender": "male",
+    "email": "william.guillaume@example.com",
+    "cell": "06-03-44-20-87",
+    "location": {
+      "city": "Reims",
+      "state": "Côte-D'Or",
+      "country": "France",
+      "postcode": 94245
+    },
+    "picture": "https://randomuser.me/api/portraits/med/men/62.jpg"
+  },
+  {
+    "name": {
+      "title": "Mr",
+      "first": "Evaristo",
+      "last": "Gomes"
+    },
+    "gender": "male",
+    "email": "evaristo.gomes@example.com",
+    "cell": "(66) 8737-4244",
+    "location": {
+      "city": "Eunápolis",
+      "state": "Santa Catarina",
+      "country": "Brazil",
+      "postcode": 76202
+    },
+    "picture": "https://randomuser.me/api/portraits/med/men/28.jpg"
+  },
+  {
+    "name": {
+      "title": "Mrs",
+      "first": "Lilja",
+      "last": "Kurtti"
+    },
+    "gender": "female",
+    "email": "lilja.kurtti@example.com",
+    "cell": "044-287-54-87",
+    "location": {
+      "city": "Kimitoön",
+      "state": "Kainuu",
+      "country": "Finland",
+      "postcode": 45489
+    },
+    "picture": "https://randomuser.me/api/portraits/med/women/46.jpg"
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "Asha",
+      "last": "Prabhu"
+    },
+    "gender": "female",
+    "email": "asha.prabhu@example.com",
+    "cell": "8677143918",
+    "location": {
+      "city": "Dhule",
+      "state": "Dadra and Nagar Haveli",
+      "country": "India",
+      "postcode": 20328
+    },
+    "picture": "https://randomuser.me/api/portraits/med/women/81.jpg"
+  },
+  {
+    "name": {
+      "title": "Mrs",
+      "first": "Kavitha",
+      "last": "Gamskar"
+    },
+    "gender": "female",
+    "email": "kavitha.gamskar@example.com",
+    "cell": "8489725141",
+    "location": {
+      "city": "Chennai",
+      "state": "Meghalaya",
+      "country": "India",
+      "postcode": 27489
+    },
+    "picture": "https://randomuser.me/api/portraits/med/women/69.jpg"
+  },
+  {
+    "name": {
+      "title": "Mrs",
+      "first": "Sarah",
+      "last": "Harcourt"
+    },
+    "gender": "female",
+    "email": "sarah.harcourt@example.com",
+    "cell": "T51 P24-5675",
+    "location": {
+      "city": "Armstrong",
+      "state": "Nova Scotia",
+      "country": "Canada",
+      "postcode": "E7C 7I5"
+    },
+    "picture": "https://randomuser.me/api/portraits/med/women/26.jpg"
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "Deborah",
+      "last": "Jenkins"
+    },
+    "gender": "female",
+    "email": "deborah.jenkins@example.com",
+    "cell": "081-078-6725",
+    "location": {
+      "city": "Kilcoole",
+      "state": "Westmeath",
+      "country": "Ireland",
+      "postcode": 70223
+    },
+    "picture": "https://randomuser.me/api/portraits/med/women/4.jpg"
+  },
+  {
+    "name": {
+      "title": "Miss",
+      "first": "Lily",
+      "last": "Lee"
+    },
+    "gender": "female",
+    "email": "lily.lee@example.com",
+    "cell": "(996)-977-2798",
+    "location": {
+      "city": "Lower Hutt",
+      "state": "Manawatu-Wanganui",
+      "country": "New Zealand",
+      "postcode": 35047
+    },
+    "picture": "https://randomuser.me/api/portraits/med/women/91.jpg"
+  },
+  {
+    "name": {
+      "title": "Mr",
+      "first": "Kaya",
+      "last": "Bakırcıoğlu"
+    },
+    "gender": "male",
+    "email": "kaya.bakircioglu@example.com",
+    "cell": "(830)-060-8703",
+    "location": {
+      "city": "Burdur",
+      "state": "Muğla",
+      "country": "Turkey",
+      "postcode": 40063
+    },
+    "picture": "https://randomuser.me/api/portraits/med/men/47.jpg"
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "Maddison",
+      "last": "Jones"
+    },
+    "gender": "female",
+    "email": "maddison.jones@example.com",
+    "cell": "(639)-222-8650",
+    "location": {
+      "city": "Gisborne",
+      "state": "Auckland",
+      "country": "New Zealand",
+      "postcode": 66154
+    },
+    "picture": "https://randomuser.me/api/portraits/med/women/12.jpg"
+  },
+  {
+    "name": {
+      "title": "Mrs",
+      "first": "Christine",
+      "last": "Warren"
+    },
+    "gender": "female",
+    "email": "christine.warren@example.com",
+    "cell": "0472-527-613",
+    "location": {
+      "city": "Hervey Bay",
+      "state": "New South Wales",
+      "country": "Australia",
+      "postcode": 4773
+    },
+    "picture": "https://randomuser.me/api/portraits/med/women/7.jpg"
+  },
+  {
+    "name": {
+      "title": "Mr",
+      "first": "Radivoy",
+      "last": "Macyuk"
+    },
+    "gender": "male",
+    "email": "radivoy.macyuk@example.com",
+    "cell": "(067) N21-1471",
+    "location": {
+      "city": "Bilopillya",
+      "state": "Avtonomna Respublika Krim",
+      "country": "Ukraine",
+      "postcode": 55897
+    },
+    "picture": "https://randomuser.me/api/portraits/med/men/96.jpg"
+  }
+]
